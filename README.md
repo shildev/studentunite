@@ -10,6 +10,7 @@ The aim of this project is to find a way to make a modern social media applicati
 
 My application will give students the freedom to find or add their own places and societies or view details of said places/societies. Thereby allowing students to connect with others in their area, explore their university, and settle into their environment with ease.
 
+![studentunitelogo](https://user-images.githubusercontent.com/44556944/196316647-e911cd57-2515-445d-8225-a9239f777541.png)
 
 
 Device specifications for PC used to build this applicaiton
