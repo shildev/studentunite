@@ -1,6 +1,6 @@
 # student_unite
 
-Student Unite 
+Student Unite (Still in development)
 
 Social media should be made simple in a way that allows for prospective university students to have all their social needs met without complication. Students should not have to look through various sites for information or switch between various applications just to make connections and be aware of social events. Furthermore, existing social media applications (SMAs) can have many negative consequences on young individuals. University students may suffer from a fear of missing out, addiction or an overconsumption of information. In addition, students can suffer negative mental health symptoms due to social media, experiencing disorders such as anxiety and depression
 
