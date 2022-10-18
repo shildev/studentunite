@@ -1,6 +1,18 @@
 # student_unite
-Device specifications for PC used to build this applicaiton
 
+Student Unite 
+
+Social media should be made simple in a way that allows for prospective university students to have all their social needs met without complication. Students should not have to look through various sites for information or switch between various applications just to make connections and be aware of social events. Furthermore, existing social media applications (SMAs) can have many negative consequences on young individuals. University students may suffer from a fear of missing out, addiction or an overconsumption of information. In addition, students can suffer negative mental health symptoms due to social media, experiencing disorders such as anxiety and depression
+
+As a result of these issues, students may be deterred from social media use. Many university students may be hesitant in sharing personal details about themselves (which can be a requirement of many existing SMAs), resulting in less opportunity to communicate with their peers around them. Many SMAs base their functionalities around their users on an individual basis; for example, the purposes of SMAs such as Instagram and Snapchat can be argued to solely focus on the updating and sharing of individuals’ personal lives via stories or personal posts. This can put off students who simply want a platform to network with peers. Existing SMAs can also be extremely distracting due to unnecessary features-; countless irrelevant posts or advertisements are often a reappearing issue for users.
+
+The aim of this project is to find a way to make a modern social media application, which sets itself apart from other existing applications by having a more simplistic, unique, and user-friendly way of connecting students together. Students will be able to have an application that acts as a starting point in terms of networking with other students throughout their degree. They will be able to gather the relevant information they need, find the places or societies they want, and form the connections they wish. I aim for my web application to possess the ability of filtering out unnecessary features that other SMAs may have while providing specific tools that users can interact with to make the application engaging.
+
+My application will give students the freedom to find or add their own places and societies or view details of said places/societies. Thereby allowing students to connect with others in their area, explore their university, and settle into their environment with ease.
+
+
+
+Device specifications for PC used to build this applicaiton
 
 Device: DESKTOP-UVKQVVN
 
@@ -34,4 +46,4 @@ Application runs using React as the front-end interface and client side framewor
 routing, requests and responses, and finally the MongoDB database- responsible for storage of data. 
 
 This code for this application was developed through the help of various online resources, such as
-StackOverflow, YouTube, online guides/blogs, and many other internet resources. Source code was also used from open-source resources such as Javascript Mastery, with many modifications to make the application unique and relevant to the purpose of this application- to provide a safe space to add and browse different places and societies in or near campus, positively impacting the overall university experience of prospective students.
+StackOverflow, YouTube, online guides/blogs, and many other internet resources. Source code was also develooped from open-source resources such as Javascript Mastery, with many modifications to make the application unique and relevant to the purpose of this application- to provide a safe space to add and browse different places and societies in or near campus, positively impacting the overall university experience of prospective students.
